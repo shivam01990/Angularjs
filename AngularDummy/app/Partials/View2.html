@@ -1,0 +1,11 @@
+﻿<div class="container">
+    <h2>View2</h2>
+    Name:
+        <input type="text" data-ng-model="textdata" />{{ textdata }}
+        <h3>Looping by directive</h3>
+    <ul>
+        <li data-ng-repeat="temp in customer|orderBy:'name' | filter:textdata">{{ temp.name | uppercase }} - {{temp.city }}
+        </li>
+    </ul>
+</div>
+

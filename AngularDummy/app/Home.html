@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="customersApp" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../Scripts/angular.js"></script>
+    <script src="../Scripts/angular-route.js"></script>
+    <script src="app.js"></script>
+    <script src="services/customersService.js"></script>
+    <script src="Controllers/CustomerController.js"></script>
+
+
+</head>
+<body>
+    Main Home Page
+    
+    <div>
+        <div data-ng-view=""></div>
+    </div>
+
+    <a href="#/Customres">View2</a>
+    <a href="#/View1">Manage Customer</a>
+</body>
+<script>
+    //var demoapp = angular.module('demoapp', ['ngRoute']);
+
+    //demoapp.config(function ($routeProvider) {
+    //    $routeProvider
+    //    .when('/View1',
+    //    {
+    //        controller: 'SimpleController',
+    //        templateUrl: 'Partials/View1.html'
+    //    })
+    //    .when('/View2',
+    //    {
+    //        controller: 'SimpleController',
+    //        templateUrl: 'Partials/View2.html'
+    //    })
+    //    .otherwise({ redirectTo: '/View1' });
+    //});
+
+    //demoapp.controller('SimpleController', function ($scope, simpleFactory) {
+    //    $scope.customer = simpleFactory.getcustomer();
+    //    $scope.addCustomer = function () {
+    //        $scope.customer.push({
+    //            name: $scope.newCustomer.name,
+    //            city: $scope.newCustomer.city
+    //        });
+    //    }
+    //});
+
+    //demoapp.factory('simpleFactory', function () {
+    //    var customer = [{ name: 'Dave', city: 'New York' },
+    //                           { name: 'Shivam', city: 'Kanpur' },
+    //                           { name: 'Ranjan', city: 'Lucknow' }
+    //    ];
+    //    var factory = {};
+    //    factory.getcustomer = function () { return customer; }
+    //    return factory;
+    //});
+
+
+
+
+
+
+</script>
+</html>

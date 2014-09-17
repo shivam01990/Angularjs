@@ -1,0 +1,58 @@
+﻿<div class="container">
+    <h1>Manage Customers</h1>
+    Search:
+        <input type="text" data-ng-model="textdata" />{{ textdata }}
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th align="left">Name</th>
+            <th align="left">Address</th>
+            <th align="left">City</th>
+            <th align="left">Phone</th>
+            <th></th>
+        </tr>
+        <tr data-ng-repeat="temp in customer| orderBy:'name' | filter:textdata">
+            <td>{{temp.id}}</td>
+            <td>{{temp.name}}</td>
+            <td>{{temp.address}}</td>
+            <td>{{temp.city}}</td>
+            <td>{{temp.pin}}</td>
+            <td>
+               <button  data-ng-click="deleteCustomer(temp.id)">Delete</button>
+            </td>
+        </tr>
+    </table>
+
+    <!--  <ul>
+        <li data-ng-repeat="temp in customer|orderBy:'name' | filter:textdata">{{ temp.name | uppercase }} - {{temp.city }}
+        </li>
+    </ul>-->
+    <br />
+    <h2>Add NewCustomer</h2>
+    <table>
+        <tr>
+            <td>Customer Name:</td>
+            <td>
+                <input type="text" data-ng-model="newCustomer.name" /></td>
+        </tr>
+        <tr>
+            <td>Customer Address:</td>
+            <td>
+                <input type="text" data-ng-model="newCustomer.address" /></td>
+        </tr>
+        <tr>
+            <td>Customer City:</td>
+            <td>
+                <input type="text" data-ng-model="newCustomer.city" />
+            </td>
+        </tr>
+        <tr>
+            <td>Customer Pin:</td>
+            <td>
+                <input type="text" data-ng-model="newCustomer.pin" />
+            </td>
+        </tr>
+    </table>
+    <button data-ng-click="addCustomer()">Add Customer</button>
+</div>
