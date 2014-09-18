@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularDummy", "AngularDummy\AngularDummy.csproj", "{B3A3AE44-6500-450B-B330-6E2B4B5AC790}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "Library\DataLayer\DataLayer.csproj", "{1968B4D3-BBEC-4978-82D3-C5D6A51E38C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "Library\BusinessLayer\BusinessLayer.csproj", "{9E9B0EA1-289E-47EC-B7DD-306EC9C07AAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{B3A3AE44-6500-450B-B330-6E2B4B5AC790}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A3AE44-6500-450B-B330-6E2B4B5AC790}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A3AE44-6500-450B-B330-6E2B4B5AC790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1968B4D3-BBEC-4978-82D3-C5D6A51E38C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1968B4D3-BBEC-4978-82D3-C5D6A51E38C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1968B4D3-BBEC-4978-82D3-C5D6A51E38C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1968B4D3-BBEC-4978-82D3-C5D6A51E38C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9B0EA1-289E-47EC-B7DD-306EC9C07AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9B0EA1-289E-47EC-B7DD-306EC9C07AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9B0EA1-289E-47EC-B7DD-306EC9C07AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9B0EA1-289E-47EC-B7DD-306EC9C07AAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

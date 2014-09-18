@@ -24,6 +24,11 @@ app.config(function ($routeProvider) {
         controller: 'CustomerController',
         templateUrl: 'Partials/AllCustomers.html'
     })
+    .when('/EditCustomer/:customerID',
+    {
+        controller: 'CustomerController',
+        templateUrl: 'Partials/EditCustomer.html'
+    })
     .when('/View2',
     {
         controller: 'CustomerController',

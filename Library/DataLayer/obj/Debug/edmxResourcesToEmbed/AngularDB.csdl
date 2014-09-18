@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="rhtest1Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="rhtest1Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_customers" EntityType="rhtest1Model.tbl_customers" />
+  </EntityContainer>
+  <EntityType Name="tbl_customers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="address" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="city" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="pin" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+  </EntityType>
+</Schema>

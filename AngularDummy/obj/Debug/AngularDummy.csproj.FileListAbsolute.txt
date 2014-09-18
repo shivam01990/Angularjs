@@ -25,3 +25,9 @@ D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPag
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.csprojResolveAssemblyReference.cache
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.xml

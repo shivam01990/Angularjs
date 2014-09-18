@@ -1,0 +1,9 @@
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\BusinessLayer\obj\Debug\BusinessLayer.pdb
