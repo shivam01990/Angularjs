@@ -1,5 +1,8 @@
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\AngularDummy.dll.config
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\AngularDummy.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\AngularDummy.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\Microsoft.Web.Infrastructure.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\Newtonsoft.Json.dll
@@ -12,6 +15,9 @@ D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.Razor.
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.Deployment.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.Razor.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.dll
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.pdb
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\Newtonsoft.Json.xml
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Net.Http.Formatting.xml
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.Helpers.xml
@@ -22,12 +28,7 @@ D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.Razor.
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.xml
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.Deployment.xml
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\System.Web.WebPages.Razor.xml
+D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.xml
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.csprojResolveAssemblyReference.cache
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\obj\Debug\AngularDummy.pdb
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.dll
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.dll
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.dll
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\BusinessLayer.pdb
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\DataLayer.pdb
-D:\Day User\Shivam\Test Projects\AngularDummy\AngularDummy\bin\EntityFramework.xml

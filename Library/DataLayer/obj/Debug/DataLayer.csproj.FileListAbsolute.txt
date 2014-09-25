@@ -3,6 +3,6 @@ D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\bin\Debug\DataLa
 D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\bin\Debug\DataLayer.pdb
 D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\bin\Debug\EntityFramework.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\bin\Debug\EntityFramework.xml
-D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
 D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\obj\Debug\DataLayer.dll
 D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\obj\Debug\DataLayer.pdb
+D:\Day User\Shivam\Test Projects\AngularDummy\Library\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
